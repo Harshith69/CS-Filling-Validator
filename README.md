@@ -10,3 +10,4 @@ It computes:
 - Precision, Recall, F1, Accuracy, Kappa
 - Crop-switch confusion matrix
 
+<img width="1893" height="809" alt="image" src="https://github.com/user-attachments/assets/b9365045-98f9-419d-9532-a302d6534338" />
